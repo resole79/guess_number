@@ -9,6 +9,11 @@ We'll tell you if your guess was too high or too low.
 ###### It's a part of the **#100DaysOfCode** challenge by Angela Yu. ######
 
 
+#### Prerequisites
+You will need the following software to run the Guess Number Game:
+ - [Python 3](https://www.python.org/downloads/)
+
+
 #### Installation
 To get started with the "Guess Number Game", follow these steps:
 
